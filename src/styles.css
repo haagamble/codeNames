@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.displayCards {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+button {
+  margin: 10px;
+}
+
+.card-div {
+  border-color: #bbbbbb;
+  border-radius: 10px;
+  border-style: solid;
+  margin-bottom: 15px;
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 16%;
+}
+
+.redButton {
+  background-color: red;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.blueButton {
+  background-color: blue;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.redCard {
+  background-color: #ff6666;
+}
+
+.blueCard {
+  background-color: #99ccff;
+}
+
+.blackCard {
+  background-color: black;
+  color: white;
+}
+
+.beigeCard {
+  background-color: beige;
+}

@@ -1,2 +1,0 @@
-# codeNames
-Created with CodeSandbox
